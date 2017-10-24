@@ -1,0 +1,50 @@
+﻿body {
+    font-family: Arial, Arial
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Arial, Arial;
+}
+
+
+h2 {
+    font-size: 35px;
+    font-family: Arial, Arial
+}
+
+
+nav {
+    background-color: deepskyblue;
+    width: 1400px;
+    height: 38px;
+    font-family: Algerian, Arial;
+    text-align: center
+}
+
+h3 {
+    font-size: 25px;
+    font-family: Arial, Arial;
+    text-align: center
+}
+
+h4 {
+    font-size: 25px;
+    font-family: Arial, Arial;
+}
+
+h5 {
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: Arial, Arial
+}
+
+h6 {
+    font-size: 15px;
+    font-family: Arial, Arial
+}
+
+
+table {
+    font-family: Arial, Arial
+}
